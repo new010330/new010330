@@ -15,6 +15,7 @@
 # Project
 
 ### SmartMirror - AI 피부진단 스마트 미러
+  - Github: [Link](https://github.com/new010330/smart_mirror)
   - 기간: 2024.10 ~ 2025.02
   - 역할: 피부진단 학습 모델 개발
 
