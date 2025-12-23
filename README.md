@@ -9,5 +9,5 @@
 
 # Algorithm - 2024년(브론즈 -> 골드5)
 ##### 천천히 플레까지만 가보자!!!
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwnsgh01)](https://solved.ac/profile/rhwnsgh01)
+[![rhwnsgh01](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwnsgh01)](https://solved.ac/profile/rhwnsgh01)
 
