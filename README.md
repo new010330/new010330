@@ -8,5 +8,6 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 # Algorithm - 2024년(브론즈 -> 골드5)
+##### 천천히 플레까지만 가보자!!!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwnsgh01)](https://solved.ac/profile/rhwnsgh01)
 
